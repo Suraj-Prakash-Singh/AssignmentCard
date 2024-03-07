@@ -1,0 +1,20 @@
+{
+  "name": "carddesign",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "tailwind"
+  ],
+  "author": "Suraj Singh",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.12.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
