@@ -1,12 +1,11 @@
 import React from "react";
 import ReactDom from "react-dom/client";
+import CardContainer from "./src/components/CardContainer";
 
 const AppLayout = () => {
 
     return (
-        <div>
-            Test
-        </div>
+        <CardContainer></CardContainer>
     )
 }
 
