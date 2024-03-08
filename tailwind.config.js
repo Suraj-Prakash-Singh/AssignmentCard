@@ -7,6 +7,13 @@ module.exports = {
         'Montserrat': ['Montserrat', 'sans-serif']
       },
     },
+    screens: {
+      'sm': '500px',
+      // => @media (min-width: 500px) { ... }
+
+      'lg': '720px',
+      // => @media (min-width: 720px) { ... }
+    },
     
   },
   plugins: [],
