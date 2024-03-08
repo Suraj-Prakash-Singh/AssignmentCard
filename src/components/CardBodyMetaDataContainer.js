@@ -2,6 +2,7 @@ import Tag from "./Tag";
 import ProfileInfo from "./ProfileInfo";
 
 const CardBodyMetaDataContainer = () => {
+    //contains three parts, the After Effects button, heading and bottom info
     return (
         <div className="lg:w-fit h-auto lg:items-start sm:flex-col sm:w-fit sm:items-center sm:justify-center sm:flex">
             <Tag/>
